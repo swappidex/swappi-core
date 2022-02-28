@@ -87,6 +87,12 @@ contract SwappiERC20 is ISwappiERC20 {
                 keccak256(abi.encode(PERMIT_TYPEHASH, owner, spender, value, nonces[owner]++, deadline))
             )
         );
+        if (uint256(s) > 0x7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5D576E7357A4501DDFE92F46681B20A0) {
+            revert("invalid signature S");
+        }
+        if (v != 27 && v != 28) {
+            revert("invalid signature V");
+        }
         address recoveredAddress = ecrecover(digest, v, r, s);
         require(recoveredAddress != address(0) && recoveredAddress == owner, 'Swappi: INVALID_SIGNATURE');
         _approve(owner, spender, value);
