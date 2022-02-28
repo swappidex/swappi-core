@@ -42,10 +42,12 @@ contract SwappiFactory is ISwappiFactory {
     function setFeeTo(address _feeTo) external {
         require(msg.sender == feeToSetter, 'Swappi: FORBIDDEN');
         feeTo = _feeTo;
+        emit feeToChanged(_feeTo);
     }
 
     function setFeeToSetter(address _feeToSetter) external {
         require(msg.sender == feeToSetter, 'Swappi: FORBIDDEN');
         feeToSetter = _feeToSetter;
+        emit feeToSetterChanged(_feeToSetter);
     }
 }

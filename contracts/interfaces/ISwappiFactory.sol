@@ -2,6 +2,8 @@ pragma solidity >=0.5.0;
 
 interface ISwappiFactory {
     event PairCreated(address indexed token0, address indexed token1, address pair, uint);
+    event feeToChanged(address feeTo);
+    event feeToSetterChanged(address feeToSetter);
 
     function feeTo() external view returns (address);
     function feeToSetter() external view returns (address);
