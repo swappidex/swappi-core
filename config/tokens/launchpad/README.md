@@ -2,7 +2,7 @@
 
 Format:
 
-```json
+```js
 {
   // Deploy the token on eSpace and grab the token contract address
   "address": "0x9e9141aFeC83d244eB50E2fe9db8039100ae2738",
