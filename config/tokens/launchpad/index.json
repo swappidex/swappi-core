@@ -32,6 +32,13 @@
     "name": "Swappi Token",
     "symbol": "PPI",
     "decimals": 18,
-    "description": "WYS-test The 1th generation of Swappi token."
+    "description": "PM-test The 1th generation of Swappi token."
+  },
+  {
+    "address": "0xf7cBD5fbC0357A4159864b1c2250b33Dd47A5c98",
+    "name": "Swappi Token",
+    "symbol": "PPI",
+    "decimals": 18,
+    "description": "PM-test-2"
   }
 ]
