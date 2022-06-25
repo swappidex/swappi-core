@@ -28,24 +28,10 @@
     "description": "The 4th generation of Swappi token."
   },
   {
-    "address": "0xD97Bd2Ea9b3e4b2C811592E38B5D1CBa69581909",
+    "address": "0xbfe3E785eacF882a148E358202334dBbD7c012cb",
     "name": "Swappi Token",
     "symbol": "PPI",
     "decimals": 18,
-    "description": "PM-test The 1th generation of Swappi token."
+    "description": "PM-test-4"
   },
-  {
-    "address": "0xf7cBD5fbC0357A4159864b1c2250b33Dd47A5c98",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-2"
-  },
-  {
-    "address": "0xF6CD2F245E1ef282b84A7c1c8CBeD6895a41E9f3",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-3"
-  }
 ]
