@@ -34,4 +34,11 @@
     "decimals": 18,
     "description": "PM-test-4"
   },
+  {
+    "address": "0x7804bF96f1D4f5FE50D73Db88c44D10D307C3515",
+    "name": "Swappi Token",
+    "symbol": "PPI",
+    "decimals": 18,
+    "description": "PM-test-5"
+  },
 ]
