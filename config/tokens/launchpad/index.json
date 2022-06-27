@@ -7,17 +7,10 @@
         "description":"Case - 3"
     },
     {
-        "address":"0xE85e9C8c9a2D96e4143D2d2d377722d6D483d724",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case - 4"
-    },
-    {
         "address":"0xE553329BD53aAB7e75021E3eF19C1Ac7277Ab23c",
         "name":"Swappi Token",
         "symbol":"PPI",
         "decimals":18,
-        "description":"Case - 5"
+        "description":"Case - 4"
     }
 ]
