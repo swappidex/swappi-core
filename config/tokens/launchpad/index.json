@@ -1,19 +1,5 @@
 [
     {
-        "address":"0x895bf9CFF26D85BF2fC421012C1699A7F0b25a00",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case - 1"
-    },
-    {
-        "address":"0x2D2202B15Ce5FB7747991B4a7caBA7503Dc2f835",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case - 2"
-    },
-    {
         "address":"0xc330AF124de97aE36e3350c58d0a86f048CBd5c7",
         "name":"Swappi Token",
         "symbol":"PPI",
