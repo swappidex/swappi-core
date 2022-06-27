@@ -1,65 +1,9 @@
 [
   {
-    "address": "0xFED5063A42910bF2d02e22F86E06773FFF64cD65",
+    "address": "0x413438AF3969F43033C31EFb79f2169F9e2C8C6b",
     "name": "Swappi Token",
     "symbol": "PPI",
     "decimals": 18,
-    "description": "The 1th generation of Swappi token."
-  },
-  {
-    "address": "0xa1F56fb75013052b75A923A44D72F0496203e661",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "The 2th generation of Swappi token."
-  },
-  {
-    "address": "0xbA255dcA97C4744aC667308B1c6eBBEaCcBff704",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "The 3th generation of Swappi token."
-  },
-  {
-    "address": "0x31b4131109a8536570a47b10772278a815C74c56",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "The 4th generation of Swappi token."
-  },
-  {
-    "address": "0xbfe3E785eacF882a148E358202334dBbD7c012cb",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-4"
-  },
-  {
-    "address": "0x7804bF96f1D4f5FE50D73Db88c44D10D307C3515",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-5"
-  },
-  {
-    "address": "0x84A071ebc5B1DCDfe1dF64F3951310E29a683816",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-6"
-  },
-  {
-    "address": "0xda1ad613660C7A4bbC8702b0cb42766ba63F6EC7",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-7"
-  },
-  {
-    "address": "0xc748f627a35E7a9f2C00ba146c5b67D43d6eCA16",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "PM-test-7"
+    "description": "Case - no one buys; Private: Score 3000"
   }
 ]
