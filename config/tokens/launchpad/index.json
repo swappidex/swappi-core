@@ -21,13 +21,6 @@
         "description":"Case: Test-3, Private Score 0 "
     },
     {
-        "address":"0x448CE817B38C2CA9F89CC484621ea250912f4324",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case: Test-4, Only Private Sale, public sale time 0 "
-    },
-    {
         "address":"0x0A0AB4DA919775CAB5950c8E455ba732996B57b7",
         "name":"Swappi Token",
         "symbol":"PPI",
