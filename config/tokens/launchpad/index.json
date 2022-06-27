@@ -1,44 +1,44 @@
 [
-  {
-    "address": "0x413438AF3969F43033C31EFb79f2169F9e2C8C6b",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "Case - no one buys; Private: Score 3000"
-  },
-  {
-    "address": "0xe0119b8F877783784c2f87e7AF9F51877F740259",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "Case: Test-2, Private Score 1 "
-  },
-  {
-    "address": "0x5F9bC717ACcFF5b2494b59D8872646F9DA3dbcFE",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "Case: Test-3, Private Score 0 "
-  },
-  {
-    "address": "0xaF05C48d311429B2dBEb190691aAdcbDDC5530A5",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "Case: Test-4, Only Private Sale, public sale time 0 "
-  },
-  {
-    "address": "0x0A0AB4DA919775CAB5950c8E455ba732996B57b7",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "Case: Test-5, Only Public Sale 0, Private Sale Share 0"
-  },
-  {
-    "address": "0x424aa3Eb69b7641FeF2C1420B4A4df9807e1d810",
-    "name": "Swappi Token",
-    "symbol": "PPI",
-    "decimals": 18,
-    "description": "Case: Test-6, Only Public Sale 0, Private Sale time 0"
-  }
+    {
+        "address":"0x413438AF3969F43033C31EFb79f2169F9e2C8C6b",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case - no one buys; Private: Score 3000"
+    },
+    {
+        "address":"0xe0119b8F877783784c2f87e7AF9F51877F740259",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case: Test-2, Private Score 1 "
+    },
+    {
+        "address":"0x5F9bC717ACcFF5b2494b59D8872646F9DA3dbcFE",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case: Test-3, Private Score 0 "
+    },
+    {
+        "address":"0xaF05C48d311429B2dBEb190691aAdcbDDC5530A5",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case: Test-4, Only Private Sale, public sale time 0 "
+    },
+    {
+        "address":"0x0A0AB4DA919775CAB5950c8E455ba732996B57b7",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case: Test-5, Only Public Sale 0, Private Sale Share 0"
+    },
+    {
+        "address":"0x424aa3Eb69b7641FeF2C1420B4A4df9807e1d810",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case: Test-6, Only Public Sale 0, Private Sale time 0"
+    }
 ]
