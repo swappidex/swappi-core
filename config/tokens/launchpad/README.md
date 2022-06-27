@@ -1,6 +1,7 @@
 # README
 
 Format:
+(Note: Please make sure the index.json is a valid JSON compatible file)
 
 ```js
 {
@@ -16,6 +17,6 @@ Format:
   "description": "The next generation of Swappi Token."
   "webUrl": 'https://swappi.io/',
   "telegramUrl": 'https://t.me/Swappi_DEX',
-  "twitterUrl": 'https://twitter.com/SwappiDEX',
+  "twitterUrl": 'https://twitter.com/SwappiDEX'
 }
 ```
