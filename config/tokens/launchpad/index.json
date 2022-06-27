@@ -12,5 +12,12 @@
         "symbol":"PPI",
         "decimals":18,
         "description":"Case - 4"
+    },
+    {
+        "address":"0xE553329BD53aAB7e75021E3eF19C1Ac7277Ab23c",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case - 4"
     }
 ]
