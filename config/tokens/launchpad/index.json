@@ -5,5 +5,12 @@
     "symbol": "PPI",
     "decimals": 18,
     "description": "Case - no one buys; Private: Score 3000"
+  },
+  {
+    "address": "0xe0119b8F877783784c2f87e7AF9F51877F740259",
+    "name": "Swappi Token",
+    "symbol": "PPI",
+    "decimals": 18,
+    "description": "Case - no one buys; Private: Score 3000"
   }
 ]
