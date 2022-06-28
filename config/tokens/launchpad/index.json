@@ -27,4 +27,11 @@
         "decimals":18,
         "description":"Case - 6 Score 3"
     }
+    {
+        "address":"0xe0572a16B4cD45d9Dd3016A9256B14186ad5B3D1",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Case - 7 Score 0"
+    }
 ]
