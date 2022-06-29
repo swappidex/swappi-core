@@ -2,7 +2,7 @@
     {
         "address":"0x04a6d6e3D199383fC2A2b6656c20f36F4A158052",
         "name":"Swappi Token",
-        "symbol":"PPI1",
+        "symbol":"ppi",
         "decimals":18,
         "description":"Here is the description of this project.",
         "webUrl":"https://swappi.io/",
@@ -12,7 +12,7 @@
     {
         "address":"0x77BA2471702e0147B13482bcF08c62BC4A69bdC8",
         "name":"Swappi Token",
-        "symbol":"PPI2",
+        "symbol":"ppi",
         "decimals":18,
         "description":"Here is the description of this project.",
         "webUrl":"https://swappi.io/",
@@ -22,7 +22,7 @@
     {
         "address":"0x076637796fd2e8114707bAa35B6f6169234dcdF8",
         "name":"Swappi Token",
-        "symbol":"PPI3",
+        "symbol":"ppi",
         "decimals":18,
         "description":"Here is the description of this project.",
         "webUrl":"https://swappi.io/",
@@ -32,7 +32,7 @@
     {
         "address":"0xB2Ab3CE879F6662A1E8b8BA0Be7e82f60eF27b26",
         "name":"Swappi Token",
-        "symbol":"PPI4",
+        "symbol":"ppi",
         "decimals":18,
         "description":"Here is the description of this project.",
         "webUrl":"https://swappi.io/",
@@ -42,7 +42,7 @@
     {
         "address":"0xbC85429eE68C3C688f0245E0D87b047034fDC27A",
         "name":"Swappi Token",
-        "symbol":"PPI5",
+        "symbol":"ppi",
         "decimals":18,
         "description":"Here is the description of this project.",
         "webUrl":"https://swappi.io/",
