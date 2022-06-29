@@ -5,33 +5,5 @@
         "symbol":"PPI",
         "decimals":18,
         "description":"Case - 3"
-    },
-    {
-        "address":"0xE553329BD53aAB7e75021E3eF19C1Ac7277Ab23c",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case - 4"
-    },
-    {
-        "address":"0x5389abb878f2152b09036111340cF268f57F2F74",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case - 5"
-    },
-    {
-        "address":"0xdAEa707A91e6Dd3D2057FD5F318073C52f0f41E0",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Case - 6 Score 3"
-    },
-    {
-        "address":"0xae784Fe1F53452BCfAC383b036b69FC3E3b6fF55",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Swappi test-2"
     }
 ]
