@@ -5,9 +5,9 @@
       "symbol": "PPI1",
       "decimals": 18,
       "description": "Here is the description of this project."
-      "webUrl": 'https://swappi.io/',
-      "telegramUrl": 'https://t.me/Swappi_DEX',
-      "twitterUrl": 'https://twitter.com/SwappiDEX'
+      "webUrl": "https://swappi.io/",
+      "telegramUrl": "https://t.me/Swappi_DEX",
+      "twitterUrl": "https://twitter.com/SwappiDEX"
     },
     {
       "address": "0x77BA2471702e0147B13482bcF08c62BC4A69bdC8",
@@ -15,9 +15,9 @@
       "symbol": "PPI2",
       "decimals": 18,
       "description": "Here is the description of this project."
-      "webUrl": 'https://swappi.io/',
-      "telegramUrl": 'https://t.me/Swappi_DEX',
-      "twitterUrl": 'https://twitter.com/SwappiDEX'
+      "webUrl": "https://swappi.io/",
+      "telegramUrl": "https://t.me/Swappi_DEX",
+      "twitterUrl": "https://twitter.com/SwappiDEX"
     },
     {
       "address": "0x076637796fd2e8114707bAa35B6f6169234dcdF8",
@@ -25,9 +25,9 @@
       "symbol": "PPI3",
       "decimals": 18,
       "description": "Here is the description of this project."
-      "webUrl": 'https://swappi.io/',
-      "telegramUrl": 'https://t.me/Swappi_DEX',
-      "twitterUrl": 'https://twitter.com/SwappiDEX'
+      "webUrl": "https://swappi.io/",
+      "telegramUrl": "https://t.me/Swappi_DEX",
+      "twitterUrl": "https://twitter.com/SwappiDEX"
     },
     {
       "address": "0xB2Ab3CE879F6662A1E8b8BA0Be7e82f60eF27b26",
@@ -35,9 +35,9 @@
       "symbol": "PPI4",
       "decimals": 18,
       "description": "Here is the description of this project."
-      "webUrl": 'https://swappi.io/',
-      "telegramUrl": 'https://t.me/Swappi_DEX',
-      "twitterUrl": 'https://twitter.com/SwappiDEX'
+      "webUrl": "https://swappi.io/",
+      "telegramUrl": "https://t.me/Swappi_DEX",
+      "twitterUrl": "https://twitter.com/SwappiDEX"
     },
     {
       "address": "0xbC85429eE68C3C688f0245E0D87b047034fDC27A",
@@ -45,8 +45,8 @@
       "symbol": "PPI5",
       "decimals": 18,
       "description": "Here is the description of this project."
-      "webUrl": 'https://swappi.io/',
-      "telegramUrl": 'https://t.me/Swappi_DEX',
-      "twitterUrl": 'https://twitter.com/SwappiDEX'
+      "webUrl": "https://swappi.io/",
+      "telegramUrl": "https://t.me/Swappi_DEX",
+      "twitterUrl": "https://twitter.com/SwappiDEX"
     }
 ]
