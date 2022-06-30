@@ -11,7 +11,7 @@ Format:
   "address": "0x9e9141aFeC83d244eB50E2fe9db8039100ae2738",
   "name": "Swappi Token",
   // Please also upload the icon image with .png as suffix in the icons folder.
-  // Name it as <symbol>.png in lowercase. eg. 'ppi.icon'
+  // Name it as <symbol>.png in uppercase. eg. 'PPI.icon'
   "symbol": "PPI",
   "decimals": 18,
   "description": "The next generation of Swappi Token."
