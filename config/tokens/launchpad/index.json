@@ -1,6 +1,6 @@
 [
     {
-        "address":"0x13C64464dBEcd1Eb98BFb41B6d5555a8A0846a36",
+        "address":"0x050D84D64A0B569f9AFac9a78630E43Aa4a68992",
         "name":"Swappi Token",
         "symbol":"PPI",
         "decimals":18,
@@ -10,107 +10,7 @@
         "twitterUrl":"https://twitter.com/SwappiDEX"
     },
     {
-        "address":"0x3A96A4049462Ea0AF7f68BB69d7a50bE8C32B6d9",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x4f9115c6D0160826F3121dbEfBCb2E8115eC8c8a",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x8A5b08A97CFafBd9F236c76701C3403F0Ac7FEa0",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0xA36C7760f5c1F74227f6beAeDdbb66f451c60B5f",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0xeDd68f9Db6AfA9F0686083EfB197A88013D775F3",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x4e01f4afeb475D36cf8a77cE19394f3f9cA37E26",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x5332746C8cfF7B49Ed23ccFCD8fE721E8702aD7A",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x476e953005a212283eac5FA064FB1203223176D0",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0xb8155fE6255e1A51c88Fc0ce2b65904b269f4D97",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x3701583648209Ee2F3866C7DB75f7Fcc987CA58b",
-        "name":"Swappi Token",
-        "symbol":"PPI",
-        "decimals":18,
-        "description":"Here is the description of this project.",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
-    },
-    {
-        "address":"0x804f760065FDcb049e0e45f48ad6ce81CE0F9773",
+        "address":"0x130ed29b228aB1C1Dc2ccf5C5698eDe3F8437F07",
         "name":"Swappi Token",
         "symbol":"PPI",
         "decimals":18,
