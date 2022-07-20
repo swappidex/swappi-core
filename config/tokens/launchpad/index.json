@@ -98,5 +98,25 @@
         "webUrl":"https://swappi.io/",
         "telegramUrl":"https://t.me/Swappi_DEX",
         "twitterUrl":"https://twitter.com/SwappiDEX"
+    },
+    {
+        "address":"0x9bfC0073C567f5a6e22Ea158366E4c71A5Ac7636",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Here is the description of this project.",
+        "webUrl":"https://swappi.io/",
+        "telegramUrl":"https://t.me/Swappi_DEX",
+        "twitterUrl":"https://twitter.com/SwappiDEX"
+    },
+    {
+        "address":"0xD212509F8E1B0Af5762D86A4D99f3Bd7f1413c8b",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Here is the description of this project.",
+        "webUrl":"https://swappi.io/",
+        "telegramUrl":"https://t.me/Swappi_DEX",
+        "twitterUrl":"https://twitter.com/SwappiDEX"
     }
 ]
