@@ -128,5 +128,15 @@
         "webUrl":"https://swappi.io/",
         "telegramUrl":"https://t.me/Swappi_DEX",
         "twitterUrl":"https://twitter.com/SwappiDEX"
+    },
+    {
+        "address":"0x6024a7f8Ad5E6dC005D69d76294c261f901538A1",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Here is the description of this project.",
+        "webUrl":"https://swappi.io/",
+        "telegramUrl":"https://t.me/Swappi_DEX",
+        "twitterUrl":"https://twitter.com/SwappiDEX"
     }
 ]
