@@ -1,5 +1,15 @@
 [
     {
+        "address":"0x40eCC8FA4f4836fB3c4c69C22390fE3fB0Ef2642",
+        "name":"Swappi Token",
+        "symbol":"PPI",
+        "decimals":18,
+        "description":"Here is the description of this project.",
+        "webUrl":"https://swappi.io/",
+        "telegramUrl":"https://t.me/Swappi_DEX",
+        "twitterUrl":"https://twitter.com/SwappiDEX"
+    },
+    {
         "address":"0x63396710f63823A1235f2cBA0dC57F6ADe460C9B",
         "name":"Swappi Token",
         "symbol":"PPI",
