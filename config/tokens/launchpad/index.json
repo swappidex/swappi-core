@@ -1,13 +1,13 @@
 [
     {
-        "address":"0x7FDb6f429eD73AD80a5d8A326FB007c86AfF2657",
+        "address":"0xbA70Fc92E65d7bE07799c646c2BA4e9647bCba01",
         "id": 1,
-        "name":"Swappi Token",
-        "symbol":"PPI",
+        "name":"TurboStarter",
+        "symbol":"TURBO",
         "decimals":18,
-        "description":"Swappi Swappi Swappi Swappi Swappi Swappi Swappi Swappi",
-        "webUrl":"https://swappi.io/",
-        "telegramUrl":"https://t.me/Swappi_DEX",
-        "twitterUrl":"https://twitter.com/SwappiDEX"
+        "description":"TurboStarter is a Web 3.0 infrastructure, a brand new launchPad that helps promising projects to achieve multi-chain issuance with one-time access. This model significantly improves IDO/IGO/INO efficiency, reduces capital ties, and thus accelerates tomorrow's ideas into reality.",
+        "webUrl":"https://turbostarter.io/",
+        "telegramUrl":"https://t.me/Turbostarter",
+        "twitterUrl":"https://twitter.com/Turbo_starter"
     }
 ]
