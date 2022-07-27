@@ -1,7 +1,7 @@
 [
     {
         "address":"0xbA70Fc92E65d7bE07799c646c2BA4e9647bCba01",
-        "id":1
+        "id": 1,
         "name":"TurboStarter",
         "symbol":"TURBO",
         "decimals":18,
