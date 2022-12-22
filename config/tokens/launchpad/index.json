@@ -9,5 +9,15 @@
         "webUrl":"https://turbostarter.io/",
         "telegramUrl":"https://t.me/Turbostarter",
         "twitterUrl":"https://twitter.com/Turbo_starter"
+    },
+    {
+        "address":"0xa4B59aA3De2af57959C23E2c9c89a2fCB408Ce6A",
+        "name":"Goledo Token",
+        "symbol":"GOL",
+        "decimals":18,
+        "description":"Goledo is a cross-chain lending and borrowing protocol based on Aave. Depositors earn passive income by depositing their digital assets into the algorithmic liquidity market, while both overcollateralized and undercollateralized loans are enabled for borrowers.",
+        "webUrl":"https://www.goledo.cash/",
+        "telegramUrl":"https://t.me/GoledoFinance",
+        "twitterUrl":"https://twitter.com/GoledoFinance"
     }
 ]
