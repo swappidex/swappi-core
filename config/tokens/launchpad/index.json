@@ -19,5 +19,15 @@
         "webUrl":"https://www.goledo.cash/",
         "telegramUrl":"https://t.me/GoledoFinance",
         "twitterUrl":"https://twitter.com/GoledoFinance"
+    },
+    {
+        "address":"0xFE197E7968807B311D476915DB585831B43A7E3b",
+        "name":"Nucleon Governance Token",
+        "symbol":"NUT",
+        "decimals":18,
+        "description":"Nucleon is a liquid staking solution for Conflux PoS. Nucleon enables users to stake CFX without the overhead of illiquid assets. Users can enjoy liquidity while remaining secure, earning interest, and accessing the broader DeFi ecosystem. Nucleon's goal is to solve the problems associated with Conflux PoS staking - liquidity, immovability, and accessibility - by making staked CFX liquid. Nucleon aims to open PoS participation with flexible amounts of CFX to improve the security of the Conflux Network.",
+        "webUrl":"https://www.nucleon.space",
+        "telegramUrl":"https://t.me/nucleonspace",
+        "twitterUrl":"https://twitter.com/OfficialNucleon"
     }
 ]
