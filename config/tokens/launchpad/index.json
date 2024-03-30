@@ -1,33 +1,13 @@
 [
     {
-        "address":"0xbA70Fc92E65d7bE07799c646c2BA4e9647bCba01",
-        "id": 1,
-        "name":"TurboStarter",
-        "symbol":"TURBO",
+        "address":"0xf1f6e3aa98bac6c13230051e452065df299a78a7",
+        "id": 2,
+        "name":"SHUI",
+        "symbol":"SHUI",
         "decimals":18,
-        "description":"TurboStarter is a Web 3.0 infrastructure, a brand new launchPad that helps promising projects to achieve multi-chain issuance with one-time access. This model significantly improves IDO/IGO/INO efficiency, reduces capital ties, and thus accelerates tomorrow's ideas into reality.",
-        "webUrl":"https://turbostarter.io/",
-        "telegramUrl":"https://t.me/Turbostarter",
-        "twitterUrl":"https://twitter.com/Turbo_starter"
-    },
-    {
-        "address":"0xa4B59aA3De2af57959C23E2c9c89a2fCB408Ce6A",
-        "name":"Goledo Token",
-        "symbol":"GOL",
-        "decimals":18,
-        "description":"Goledo is a cross-chain lending and borrowing protocol based on Aave. Depositors earn passive income by depositing their digital assets into the algorithmic liquidity market, while both overcollateralized and undercollateralized loans are enabled for borrowers.",
-        "webUrl":"https://www.goledo.cash/",
-        "telegramUrl":"https://t.me/GoledoFinance",
-        "twitterUrl":"https://twitter.com/GoledoFinance"
-    },
-    {
-        "address":"0xFE197E7968807B311D476915DB585831B43A7E3b",
-        "name":"Nucleon Governance Token",
-        "symbol":"NUT",
-        "decimals":18,
-        "description":"Nucleon is a liquid staking solution for Conflux PoS. Nucleon enables users to stake CFX without the overhead of illiquid assets. Users can enjoy liquidity while remaining secure, earning interest, and accessing the broader DeFi ecosystem. Nucleon's goal is to solve the problems associated with Conflux PoS staking - liquidity, immovability, and accessibility - by making staked CFX liquid. Nucleon aims to open PoS participation with flexible amounts of CFX to improve the security of the Conflux Network.",
-        "webUrl":"https://www.nucleon.space",
-        "telegramUrl":"https://t.me/nucleonspace",
-        "twitterUrl":"https://twitter.com/OfficialNucleon"
+        "description":"Invested by Conflux Foundation and Blockbooster, SHUI is a Conflux Liquid Staking Protocol reaching $7.5M TVL in only 1.5 month.",
+        "webUrl":"https://www.shui.finance/",
+        "telegramUrl":"https://t.me/shuifinance",
+        "twitterUrl":"https://twitter.com/shui_finance"
     }
 ]
