@@ -5,7 +5,11 @@
         "name":"SHUI",
         "symbol":"SHUI",
         "decimals":18,
-        "description":"Invested by Conflux Foundation and Blockbooster, SHUI is a Conflux Liquid Staking Protocol reaching $7.5M TVL in only 1.5 month.",
+        "description":"Due to legal considerations and regulatory requirements, SHUI provides it service to limited regions. 
+Here is the IP List for the restricted regions:
+US, mainland China, Balkans, Belarus, Burma, Burundi, Central Africa Republic, Crimea and Sevastopol, Cuba, Democratic Republic of Congo, Ethiopia, Iran, Iraq, Lebanon, Libya, North Korea, Russia, Somalia, Sudan, Syria, Ukraine, Venezuela, Yemen, Zimbabwe
+
+Please be aware that users from those regions are also prohibited to participate in SHUI IDO on Swappi. By participating in the IDO, you acknowledge that you are not from the above-mentioned regions, and you know that SHUI does not assume any legal responsibility for users participating in the IDO from the above-mentioned IP regions.",
         "webUrl":"https://www.shui.finance/",
         "telegramUrl":"https://t.me/shuifinance",
         "twitterUrl":"https://twitter.com/shui_finance"
